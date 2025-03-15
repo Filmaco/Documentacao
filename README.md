@@ -18,18 +18,18 @@ O tema escolhido para este projeto é uma acervo colaborativo de filmes nacionai
 ## Tecnologias
 
 ### Backend
-Python
-Flask
+- Python
+- Flask
 
 ### Frontend
-VueJS
+- VueJS
 
 ### Banco de Dados
-Firebase
-MySQL Workbank
+- Firebase
+- MySQL Workbank
 
 ### Ferramentas e APIs
-TMDB
+- TMDB
 
 
 
