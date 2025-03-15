@@ -1,3 +1,5 @@
+## Bem Vinda/o!
+
 ## Escopo
 
 A internet possibilita ter fácil acesso a todo tipo de informação, sejam notícias, músicas, jogos, uma infinidade a um toque de distância. Entretanto, quando falamos de filmes temos  
