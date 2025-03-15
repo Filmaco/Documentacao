@@ -14,3 +14,26 @@ fazer download. Plataformas como Netflix, Max e Prime Vídeo tem ganhado força 
 
 O tema escolhido para este projeto é uma acervo colaborativo de filmes nacionais, onde os usuários poderão adicionar e compartilhar longas e curtas metragens, se tornando uma grande comunidade. O acervo será gerenciado pelos usuários, contendo a inserção de novos filmes, subindo o vídeo direto para o youtube e as informações adicionadas poderão ser editadas. O usuário também poderá interagir com o conteúdo de outros usuários, através de comentários nas páginas dos filmes, like ou deslike (gostei ou não gostei), adicionar o filme a sua playlist pessoal, sendo ela privada ou pública, ou vendo a quantidade de visualizações de seus vídeos.
 
+
+## Tecnologias
+
+#### Backend
+
+Python
+Flask
+
+#### Frontend
+
+VueJS
+
+#### Banco de Dados
+
+Firebase
+MySQL Workbank
+
+#### Ferramentas e APIs
+
+TMDB
+
+
+
