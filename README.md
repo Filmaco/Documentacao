@@ -1,4 +1,9 @@
-## Bem Vinda/o!
+## Bem Vindo!
+
+Este é um projeto acadêmico carinhosamente batizado de 'Filmaço'.
+Me chamo Lara Victoria de Souza Pereira, estou no quinto período de Análise e Desenvolvimento de Sistemas, um curso no Instituto Federal do Paraná em Foz do Iguaçu.
+Através da plataforma do github irei documentar meu progresso no desenvolvimento do sistema do Filmaço, será separado em Back, Front e a documentação técnica.
+
 
 ## Escopo
 
